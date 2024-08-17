@@ -1,0 +1,111 @@
+body{
+    font-family: sans-serif;
+}
+.hearder{
+    text-align: center;
+    background-color: darkolivegreen;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: white;
+}
+aside{
+    background-color: blue;
+    width: 100vh;
+    text-align: center;
+    height: 310px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 10px;
+
+}
+.contianer{
+    display: flex;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: end;
+}
+main{
+    flex: 2;
+    
+}
+.article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+    
+
+}
+.content{
+    background-color: blueviolet;
+    padding-top: 150px;
+    margin: 10px 0px 10px 10px;
+    padding-bottom: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    height:130px;
+    align-items: flex-end;
+    border: 1px solid black ;
+    border: none;
+    color: white;
+    
+}
+.image1{
+    background-color: grey;
+    border: none;
+    border: 2px solid gray;
+    display: flex;
+    align-self: flex-end;
+    padding: 30px;
+    height: 50px;
+    width: 50px;
+    color: white;
+    align-items:center ;
+    margin-right: 30px;
+}
+.image2{
+    background-color: grey;
+    border: none;
+    border: 2px solid gray;
+    display: flex;
+    align-self: flex-end;
+    padding: 30px;
+    height: 50px;
+    width: 50px;
+    align-items:center ;
+    margin-right: 30px;
+    color: white;
+
+}
+.image3{
+    background-color: grey;
+    border: none;
+    border: 2px solid gray;
+    display: flex;
+    align-self: flex-end;
+    padding: 30px;
+    height: 50px;
+    width: 50px;
+    align-items:center ;
+    color: white;
+    
+}
+.footer{
+    display: flex;
+    background-color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.body{
+    background-color: deeppink;
+    padding: 10px;
+}
